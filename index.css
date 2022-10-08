@@ -1,0 +1,17 @@
+*{
+    font-size: 1.2rem;
+}
+
+/* This not working */
+img{
+    filter: grayscale(100%);
+}
+
+.info{
+    font-family: "Cabin Sketch",cursive;
+    font-weight: 500;
+    font-size: 1.6rem;
+    line-height: 1.2;
+}
+
+
